@@ -1,0 +1,21 @@
+modules/mod_articles/tmpl/default_items.php
+  s_f2e3f53f9c10b9::t_ad985da78d80e3 111
+modules/mod_articles/src/Helper/ArticlesHelper.php
+  s_f2e3f53f9c10b9::t_1ec7adf2595bae 387-388,399-401
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "5621400532ad4c41a08b9b1b2b716c49142c02a5",
+  "prompts": {},
+  "sessions": {
+    "s_f2e3f53f9c10b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04c756f0-3d4f-4d0f-b614-65a2d059ec9d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
