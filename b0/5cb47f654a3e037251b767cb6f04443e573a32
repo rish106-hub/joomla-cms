@@ -1,0 +1,19 @@
+administrator/components/com_scheduler/tmpl/tasks/default.php
+  s_f2e3f53f9c10b9::t_a2ccbbdfeb0eed 214,218-219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b05cb47f654a3e037251b767cb6f04443e573a32",
+  "prompts": {},
+  "sessions": {
+    "s_f2e3f53f9c10b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04c756f0-3d4f-4d0f-b614-65a2d059ec9d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
