@@ -1,0 +1,19 @@
+administrator/components/com_content/src/Model/ArticleModel.php
+  s_1a4b9f03d5ed8e::t_040d7f9c07887f 448-462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "ad998e812c0596784af4f906994d35feaca19e6c",
+  "prompts": {},
+  "sessions": {
+    "s_1a4b9f03d5ed8e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d3572b99-9f7e-4671-a6cb-f73dc57e144f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
