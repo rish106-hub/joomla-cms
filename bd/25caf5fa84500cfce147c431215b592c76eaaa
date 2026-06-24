@@ -1,0 +1,23 @@
+tests/System/integration/administrator/components/com_content/ArticleOrphanedAuthor.cy.js
+  s_1a4b9f03d5ed8e::t_da5fcd47e01162 1-65
+administrator/components/com_content/src/Model/ArticleModel.php
+  s_1a4b9f03d5ed8e::t_624c05e30a0136 804-821
+libraries/src/Table/Content.php
+  s_1a4b9f03d5ed8e::t_1d4ea968ea13f5 334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "bd25caf5fa84500cfce147c431215b592c76eaaa",
+  "prompts": {},
+  "sessions": {
+    "s_1a4b9f03d5ed8e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d3572b99-9f7e-4671-a6cb-f73dc57e144f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
